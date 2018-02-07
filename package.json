@@ -1,0 +1,28 @@
+{
+  "name": "test01",
+  "version": "1.0.0",
+  "description": "README\r ======",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "gulp-sass": "^3.1.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/extended83/git-test01m.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/extended83/git-test01m/issues"
+  },
+  "homepage": "https://github.com/extended83/git-test01m#readme"
+}
